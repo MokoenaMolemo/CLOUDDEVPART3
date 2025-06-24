@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|c:\\users\\lab_services_student\\desktop\\finalcloud\\eventeaseappfinal\\eventeaseappfinal\\models\\eventeasedbscontrxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BCFE61-0FD4-4720-A995-C4110375BD89}|EventEaseAppFinal\\EventEaseAppFinal.csproj|solutionrelative:eventeaseappfinal\\models\\eventeasedbscontrxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAMAAABwMzMzM7MiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:47:48.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T20:41:10.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T20:18:18.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T20:09:45.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:59:51.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T19:18:23.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T19:17:00.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\favicon.ico",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\favicon.ico",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "EventEaseAppFinal\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-06-24T19:10:53.747Z",
+              "EditorCaption": " - Icon [16x16, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:05:20.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:05:18.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T19:02:24.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T19:02:10.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T19:01:53.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\packages.config",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\packages.config",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\packages.config",
+              "RelativeToolTip": "EventEaseAppFinal\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T19:01:39.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAEAAACQZmZmZiYwwBIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:00:37.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Models\\EventType.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\Models\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:49:52.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Models\\Event.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\Models\\Event.cs",
+              "ViewState": "AgIAABMAAABgmZmZmVklwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:49:43.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABsAAABAMjMzMzMRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:46:20.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\Controllers\\VenueController.cs",
+              "ViewState": "AgIAABkAAAAAMTMzMzP1vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:45:41.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventEaseDBSContrxt.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Models\\EventEaseDBSContrxt.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Models\\EventEaseDBSContrxt.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Models\\EventEaseDBSContrxt.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\Models\\EventEaseDBSContrxt.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:29:18.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Web.config",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Web.config",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Web.config",
+              "RelativeToolTip": "EventEaseAppFinal\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T18:05:57.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T18:05:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Web.config",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Views\\Web.config",
+              "RelativeToolTip": "EventEaseAppFinal\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T18:05:42.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventEaseAppFinal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\FINALCLOUD\\EventEaseAppFinal\\EventEaseAppFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventEaseAppFinal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:02:03.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
